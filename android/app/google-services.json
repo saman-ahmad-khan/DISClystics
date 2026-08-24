@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "184915145835",
+    "project_id": "disclystics",
+    "storage_bucket": "disclystics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184915145835:android:85234dcec9dc28746dad2e",
+        "android_client_info": {
+          "package_name": "com.example.disclystics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184915145835-8e9teiptj0d83bsp6cs65e42lca6di3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disclystics",
+            "certificate_hash": "eda9544e1b2286f4bfbe9605fb823dbd7975ea2d"
+          }
+        },
+        {
+          "client_id": "184915145835-4vcssr1n7s52vimkqd474qgvlk4o0t00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJXPq-pwFvvFI_r8POVBIyJqtDeMmh6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184915145835-4vcssr1n7s52vimkqd474qgvlk4o0t00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184915145835-is0v64fi3pr3nedc4h4n39tsgbqueuiq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.disclystics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
